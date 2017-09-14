@@ -60,6 +60,10 @@ body {
 	word-wrap: break-word;
 }
 
+.reveal h4 {
+	text-transform: none;
+}
+
 .reveal h1 {font-size: $heading1Size; }
 .reveal h2 {font-size: $heading2Size; }
 .reveal h3 {font-size: $heading3Size; }

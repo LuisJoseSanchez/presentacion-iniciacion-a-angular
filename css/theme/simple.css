@@ -57,6 +57,9 @@ body {
   text-shadow: none;
   word-wrap: break-word; }
 
+.reveal h4 {
+  text-transform: none; }
+
 .reveal h1 {
   font-size: 3.77em; }
 
