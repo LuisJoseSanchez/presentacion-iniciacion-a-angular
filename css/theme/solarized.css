@@ -58,6 +58,7 @@ body {
   text-shadow: none;
   word-wrap: break-word; }
 
+.reveal h3,
 .reveal h4 {
   text-transform: none; }
 

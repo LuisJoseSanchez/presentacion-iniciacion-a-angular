@@ -57,6 +57,7 @@ body {
   text-shadow: 2px 2px 2px #222;
   word-wrap: break-word; }
 
+.reveal h3,
 .reveal h4 {
   text-transform: none; }
 
