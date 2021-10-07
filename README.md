@@ -1,4 +1,4 @@
-<img src="img/fpic.png" width="200px">
+<img src="img/angularlogo.png" width="200px">
 
 # Presentación del taller de iniciación a Angular.
 
